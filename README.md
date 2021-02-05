@@ -1,4 +1,5 @@
 # 百科知识题库
+## [友情链接1 from ztianming](https://github.com/Jayonli/xuexi.cn)
 
  【B 】 机关、团体、企业、事业等单位应当落实消防安全主体责任，定期开展____，及时消除火灾隐患。  
 监管 、督查。  
